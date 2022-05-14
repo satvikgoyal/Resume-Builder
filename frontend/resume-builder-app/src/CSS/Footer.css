@@ -1,0 +1,51 @@
+.footer{
+    overflow: hidden;
+}
+
+.footer-background{
+    opacity: 1;
+    z-index: 0;
+    width: 100%;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.footer-info{
+    position: relative;
+    margin-top: 11%;
+}
+
+.footer-img{
+    display: flex;
+    justify-content: center;
+    padding-left: 5%;
+}
+
+.footer-brand-info{
+    padding-left:10%;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+.footer-brand{
+    width: 60%;
+}
+
+.footer-links{
+    
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    padding-left: 38%;
+    font-size: 1.5rem;
+    /* padding-top: 5vh; */
+}
+
+.linkicon,.giticon,.instaicon{
+    margin-right: 5%;
+}
+
+.social-icons{
+    margin-left: 15%;
+}

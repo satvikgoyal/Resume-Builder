@@ -1,0 +1,91 @@
+.contact-labels{
+    font-weight:bold;
+    letter-spacing: 1px;
+    color: black;
+    /* font-size: 1.5rem; */
+}
+
+.contact-input{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
+    max-height: 1000px;
+    overflow-y: auto;
+}
+
+.inputs{
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #236c7e;
+    padding: 5px;
+    /* font-size: 1rem; */
+    color: #236c7e;
+    cursor: text;
+    letter-spacing: 0.5px;
+    opacity: 0.85;
+    font-weight: 600;
+}
+
+.inputs:focus{
+    outline: none;
+}
+
+.inputformButton{
+    /* text-align: center; */
+    color: #236c7e;
+    /* font-size: 1.5rem; */
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 5%;
+    width: 100%;
+    padding: 2px;
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+}
+
+.description{
+    color: gray;
+    font-size: .75rem;
+}
+
+.deleteBlock{
+    width: 100%;
+    text-align: center;
+    border: 2px dashed red;
+    border-radius: 2px;
+    color: red;
+    padding: 3px;
+    background-color: #ffffff;
+    margin-top: 2%;
+    font-weight: 500;
+}
+
+.addBlock{
+    width: 100%;
+    text-align: center;
+    border: 2px dashed #236c7e;
+    border-radius: 2px;
+    color: #236c7e;
+    padding: 3px;
+    background-color: #ffffff;
+    margin-top: 15%;
+    font-weight: 500;
+}
+
+.inputformButton:active{
+    outline: none;
+}
+
+#deleteSegment{
+    margin-bottom: 10%;
+}
+
+.addBlock:active{
+    outline: none;
+}
+.deleteBlock:active{
+    outline: none;
+}
+.inputformButton:active{
+    outline: none;
+}

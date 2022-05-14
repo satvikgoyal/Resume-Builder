@@ -1,0 +1,10 @@
+export const Add_Contact_Info="Add_Contact_Info";
+export const Add_Skills_Info = "Add_Skills_Info";
+export const Add_Awards_Info = "Add_Awards_Info";
+export const Add_Personal_Info = "Add_Personal_Info"; 
+export const Add_Personal_Profile = "Add_Personal_Profile"; 
+export const Add_Work_Info = "Add_Work_Info"; 
+export const Add_Education_Info = "Add_Education_Info"; 
+export const Add_Project_Info = "Add_Projects_Info"; 
+export const Edit_button_Click = "Edit_button_Click";
+export const Discard = "Discard";

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&display=swap');
+
+.App {
+  text-align: center;
+}
+
+/*-------------------------Whole body section--------------------*/
+ 
+*{
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mulish",sans-serif;
+}
+
+button{
+  outline:none;
+}
+
+button:active{
+  outline:none;
+}
